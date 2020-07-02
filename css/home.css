@@ -1,0 +1,28 @@
+body{font-family:"Helvetica Neue",Helvetica,Arial,"Microsoft JhengHei","微软雅黑","メイリオ","맑은 고딕",sans-serif;height:100%}
+ul{margin:0;padding:0}
+.bg{min-height:822px;width:100%;background-position:center center;background-repeat:no-repeat;background-size:cover}
+.container-fluid{padding-right:0;padding-left:0}
+.avword{font-size:20px}
+.toplogo{width:100%;text-align:center;margin-top:50px;display:none}
+.phone{margin-top:150px}
+.qrrig{margin-top:150px}
+.qrex{list-style-type:decimal;list-style-position:inside}
+.qrlogo{width:auto}
+.freebtn{padding:11px 40px}
+.fotlogo{padding-left:40px}
+.footword{font-size:1.8rem}
+.footlogo_{display:none}
+.hvr-grow-shadow{display:inline-block;vertical-align:middle;-webkit-transform:perspective(1px) translateZ(0);transform:perspective(1px) translateZ(0);box-shadow:0 0 1px transparent;-webkit-transition-duration:.3s;transition-duration:.3s;-webkit-transition-property:box-shadow,transform;transition-property:box-shadow,transform}
+.hvr-grow-shadow:active,.hvr-grow-shadow:focus,.hvr-grow-shadow:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5);-webkit-transform:scale(1.1);transform:scale(1.1)}
+footer{background-color:#ab61f4}
+@media (max-width:767.98px){.phone{margin-top:30px}
+.qrrig{margin-top:20px;text-align:center}
+.avword{margin-top:25px}
+.qrlogo{width:50%}
+.botlogo{display:none}
+.toplogo{display:block}
+.free{margin:20px}
+.fotlogo{display:none}
+.footlogo_{display:block;text-align:center}
+footer{text-align:center}
+}
